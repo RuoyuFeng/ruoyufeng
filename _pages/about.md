@@ -69,13 +69,16 @@ Experience
 ------
 Mar. 2023 - Present      Research Intern, Intelligence Media Group, Microsoft Research Asia
 
+
 Publications
 ------
+Cloth-changing person re-identification from a single image with gait prediction and regularization
+Xin Jin, Tianyu He, Kecheng Zheng, Zhiheng Yin, Xu Shen, Zhen Huang, *Ruoyu Feng*, Jianqiang Huang, Zhibo Chen, Xian-Sheng Hua
 
 
 Academic Services
 ------
-Invited Reviewer for IEEE TCSVT, TNNLS.
+Invited Reviewer for IEEE TCSVT, TNNLS, TIP, etc.
 
-Invited Reviewer for ECCV, ICCV, CVPR.
+Invited Reviewer for ECCV, ICCV, CVPR, ACM MM, etc.
 
