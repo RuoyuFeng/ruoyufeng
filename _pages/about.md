@@ -67,7 +67,7 @@ Quick links: [Email: ustcfry@mail.ustc.edu.cn](mailto:ustcfry@mail.ustc.edu.cn),
 
 Experience
 ------
-*Mar. 2023 - Present*&emsp;&emsp;Research Intern, Intelligence Media Group, Microsoft Research Asia
+*Mar. 2023 - Present*&emsp;&emsp;&emsp;&emsp;Research Intern, Intelligence Media Group, Microsoft Research Asia
 
 
 
