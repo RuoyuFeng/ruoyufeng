@@ -70,18 +70,34 @@ Experience
 Mar. 2023 - Present      Research Intern, Intelligence Media Group, Microsoft Research Asia
 
 
-Publications
+Research
 ------
+**Inpaint anything: Segment anything meets image inpainting**
+<span style="font-size: smaller;">
+Tao Yu, Runseng Feng, **Ruoyu Feng**, Jinming Liu, Xin Jin, Wenjun Zeng, Zhibo Chen  
+[[pdf](https://arxiv.org/pdf/2304.06790)], [[code](https://github.com/geekyutao/Inpaint-Anything)]
+</span>
+
+**HST: Hierarchical Swin Transformer for Compressed Image Super-Resolution**
+<span style="font-size: smaller;">
+Bingchen Li, Xin Li, Yiting Lu, Sen Liu, **Ruoyu Feng**, Zhibo Chen  
+European Conference on Computer Vision (**ECCV Workshop**), 2022  
+[[pdf](https://arxiv.org/abs/2208.09885)]
+</span>
+
+**Image coding for machines with omnipotent feature learning**
+<span style="font-size: smaller;">
+**Ruoyu Feng**, Xin Jin, Zongyu Guo, Runsen Feng, Yixin Gao, Tianyu He, Zhizheng Zhang, Simeng Sun, Zhibo Chen  
+European Conference on Computer Vision (**ECCV**), 2022  
+[[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970500.pdf)]
+</span>
+
 **Cloth-changing person re-identification from a single image with gait prediction and regularization**  
 <span style="font-size: smaller;">
 Xin Jin, Tianyu He, Kecheng Zheng, Zhiheng Yin, Xu Shen, Zhen Huang, **Ruoyu Feng**, Jianqiang Huang, Zhibgo Chen, Xian-Sheng Hua  
-IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2023  
-[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf)
+IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2022  
+[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf)]
 </span>
-
-<!-- Xin Jin, Tianyu He, Kecheng Zheng, Zhiheng Yin, Xu Shen, Zhen Huang, **Ruoyu Feng**, Jianqiang Huang, Zhibgo Chen, Xian-Sheng Hua  
-IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2023  
-[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf) -->
 
 
 Academic Services
