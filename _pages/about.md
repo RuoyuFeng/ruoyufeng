@@ -75,7 +75,7 @@ Research
 **Inpaint anything: Segment anything meets image inpainting**
 <span style="font-size: smaller;">
 Tao Yu, Runseng Feng, **Ruoyu Feng**, Jinming Liu, Xin Jin, Wenjun Zeng, Zhibo Chen  
-[[pdf](https://arxiv.org/pdf/2304.06790)], [[code](https://github.com/geekyutao/Inpaint-Anything)]
+[[pdf](https://arxiv.org/pdf/2304.06790)] [[code](https://github.com/geekyutao/Inpaint-Anything)]
 </span>
 
 **HST: Hierarchical Swin Transformer for Compressed Image Super-Resolution**
