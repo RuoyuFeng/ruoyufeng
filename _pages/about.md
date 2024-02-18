@@ -72,7 +72,7 @@ Mar. 2023 - Present      Research Intern, Intelligence Media Group, Microsoft Re
 
 Research
 ------
-**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**
+**ART·V: Auto-Regressive Text-to-Video Generation with Diffusion Models**
 <span style="font-size: smaller;">
 Wenming Weng, **Ruoyu Feng**, Yanhui Wang, Qi Dai, Chunyu Wang, Dacheng Yin, Zhiyuan Zhao, Kai Qiu, Jianmin Bao, Yuhui Yuan, Chong Luo, Yueyi Zhang, Zhiwei Xiong  
 [[pdf](https://arxiv.org/abs/2311.18834)]
