@@ -93,14 +93,14 @@ Yanhui Wang, Jianmin Bao, Wenming Weng, **Ruoyu Feng**, Dacheng Yin, Tao Yang, J
 
 **Semantically Structured Image Compression via Irregular Group-Based Decoupling**  
 <span style="font-size: smaller;">
-**Ruoyu Feng**, Yixin Gao\*(equal), Xin Jin, Runsen Feng, Zhibo Chen  
+**Ruoyu Feng\***, Yixin Gao\*, Xin Jin, Runsen Feng, Zhibo Chen.(\* Equal Contribution)  
 International Conference on Computer Vision (**ICCV**), 2023
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.pdf)]
 </span>
 
 **Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driven Prompts**  
 <span style="font-size: smaller;">
-**Ruoyu Feng**, Jinming Liu\*(equal), Xin Jin, Xiaohan Pan, Heming Sun, Zhibo Chen  
+**Ruoyu Feng\***, Jinming Liu\*, Xin Jin, Xiaohan Pan, Heming Sun, Zhibo Chen.(\* Equal Contribution)  
 [[pdf](https://arxiv.org/pdf/2305.02578.pdf)]
 </span>
 
@@ -127,7 +127,7 @@ IEEE Transactions on Multimedia (**IEEE TMM**)
 
 **Semantical video coding: Instill static-dynamic clues into structured bitstream for AI tasks**
 <span style="font-size: smaller;">
-Xin Jin, **Ruoyu Feng\*(equal)**, Simeng Sun, Runsen Feng, Tianyu He, Zhibo Chen  
+Xin Jin\*, **Ruoyu Feng\***, Simeng Sun\*, Runsen Feng, Tianyu He, Zhibo Chen.(\* Equal Contribution)  
 Journal of Visual Communication and Image Representation (**JVCIR**)
 [[pdf](https://arxiv.org/pdf/2201.10162.pdf)]
 </span>
@@ -147,7 +147,7 @@ European Conference on Computer Vision (**ECCV Workshop**), 2022
 
 **Image coding for machines with omnipotent feature learning**  
 <span style="font-size: smaller;">
-**Ruoyu Feng**, Xin Jin\*(equal), Zongyu Guo, Runsen Feng, Yixin Gao, Tianyu He, Zhizheng Zhang, Simeng Sun, Zhibo Chen  
+**Ruoyu Feng**, Xin Jin\*, Zongyu Guo, Runsen Feng, Yixin Gao, Tianyu He, Zhizheng Zhang, Simeng Sun, Zhibo Chen.(\* Equal Contribution)  
 European Conference on Computer Vision (**ECCV**), 2022  
 [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970500.pdf)]
 </span>
