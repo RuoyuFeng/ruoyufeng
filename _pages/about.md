@@ -112,7 +112,7 @@ Yunpeng Qi, Ruoyu Feng, Zhizheng Zhang, Zhibo Chen
 [[pdf](https://ieeexplore.ieee.org/abstract/document/10402758/)]
 </span>
 
-**Composable Image Coding for Machine via Task-oriented Internal Adaptor and External Prior**
+**Composable Image Coding for Machine via Task-oriented Internal Adaptor and External Prior**  
 <span style="font-size: smaller;">
 Jinming Liu, Xin Jin, **Ruoyu Feng**, Zhibo Chen, Wenjun Zeng  
 2023 IEEE International Conference on Visual Communications and Image Processing (**VCIP**)  
