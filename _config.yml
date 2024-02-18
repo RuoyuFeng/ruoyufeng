@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ruoyu Feng's Blog"
+title                    : "Ruoyu Feng"
 title_separator          : "-"
 name                     : &name "Ruoyu Feng"
 description              : &description "Welcome to Ruoyu Feng's personal website where I share my basic information, publications, and thoughts."
