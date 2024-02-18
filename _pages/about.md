@@ -72,27 +72,63 @@ Mar. 2023 - Present      Research Intern, Intelligence Media Group, Microsoft Re
 
 Research
 ------
+**ART$\boldsymbol{\cdot}$V: Auto-Regressive Text-to-Video Generation with Diffusion Models**
+<span style="font-size: smaller;">
+Wenming Weng, **Ruoyu Feng**, Yanhui Wang, Qi Dai, Chunyu Wang, Dacheng Yin, Zhiyuan Zhao, Kai Qiu, Jianmin Bao, Yuhui Yuan, Chong Luo, Yueyi Zhang, Zhiwei Xiong  
+[[pdf](https://arxiv.org/abs/2311.18834)]
+</span>
+
+**MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**
+<span style="font-size: smaller;">
+Yanhui Wang, Jianmin Bao, Wenming Weng, **Ruoyu Feng**, Dacheng Yin, Tao Yang, Jingxu Zhang, Qi Dai Zhiyuan Zhao, Chunyu Wang, Kai Qiu, Yuhui Yuan, Xiaoyan Sun, Chong Luo, Baining Guo  
+[[pdf](https://arxiv.org/abs/2311.18829)]
+</span>
+
+**CCEdit: Creative and controllable video editing via diffusion models**
+<span style="font-size: smaller;">
+**Ruoyu Feng**, Wenming Weng, Yanhui Wang, Yuhui Yuan, Jianmin Bao, Chong Luo, Zhibo Chen, Baining Guo  
+[[pdf](https://arxiv.org/pdf/2309.16496.pdf)]
+</span>
+
+
 **Semantically Structured Image Compression via Irregular Group-Based Decoupling**
 <span style="font-size: smaller;">
-Ruoyu Feng, Yixin Gao\*(equal), Xin Jin, Runsen Feng, Zhibo Chen
+**Ruoyu Feng**, Yixin Gao\*(equal), Xin Jin, Runsen Feng, Zhibo Chen  
+International Conference on Computer Vision (**ICCV**), 2023
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.pdf)]
 </span>
 
 **Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driven Prompts**
 <span style="font-size: smaller;">
-**Ruoyu Feng**, Jinming Liu\*(equal), Xin Jin, Xiaohan Pan, Heming Sun, Zhibo Chen
+**Ruoyu Feng**, Jinming Liu\*(equal), Xin Jin, Xiaohan Pan, Heming Sun, Zhibo Chen  
 [[pdf](https://arxiv.org/pdf/2305.02578.pdf)]
+</span>
+
+**Image Coding for Machines based on Non-Uniform Importance Allocation**
+<span style="font-size: smaller;">
+Yunpeng Qi, Ruoyu Feng, Zhizheng Zhang, Zhibo Chen  
+2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)  
+[[pdf](https://ieeexplore.ieee.org/abstract/document/10402758/)]
+</span>
+
+**Composable Image Coding for Machine via Task-oriented Internal Adaptor and External Prior**
+<span style="font-size: smaller;">
+Jinming Liu, Xin Jin, **Ruoyu Feng**, Zhibo Chen, Wenjun Zeng  
+2023 IEEE International Conference on Visual Communications and Image Processing (VCIP)  
+[[pdf](https://ieeexplore.ieee.org/abstract/document/10402659)]
 </span>
 
 **Local patch autoaugment with multi-agent collaboration**
 <span style="font-size: smaller;">
-Shiqi Lin, Tao Yu, **Ruoyu Feng**, Xin Li, Xiaoyuan Yu, Lei Xiao, Zhibo Chen
+Shiqi Lin, Tao Yu, **Ruoyu Feng**, Xin Li, Xiaoyuan Yu, Lei Xiao, Zhibo Chen  
+IEEE Transactions on Multimedia (**IEEE TMM**)  
 [[pdf](https://arxiv.org/pdf/2103.11099.pdf)]
 </span>
 
 **Semantical video coding: Instill static-dynamic clues into structured bitstream for AI tasks**
 <span style="font-size: smaller;">
-Xin Jin, **Ruoyu Feng\*(equal)**, Simeng Sun, Runsen Feng, Tianyu He, Zhibo Chen
+Xin Jin, **Ruoyu Feng\*(equal)**, Simeng Sun, Runsen Feng, Tianyu He, Zhibo Chen  
+Journal of Visual Communication and Image Representation (**JVCIR**)
 [[pdf](https://arxiv.org/pdf/2201.10162.pdf)]
 </span>
 
