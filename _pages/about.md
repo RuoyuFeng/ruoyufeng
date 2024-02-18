@@ -72,6 +72,12 @@ Mar. 2023 - Present      Research Intern, Intelligence Media Group, Microsoft Re
 
 Research
 ------
+**Semantical video coding: Instill static-dynamic clues into structured bitstream for AI tasks**
+<span style="font-size: smaller;">
+Xin Jin, **Ruoyu Feng\*(equal)**, Simeng Sun, Runsen Feng, Tianyu He, Zhibo Chen
+[[pdf](https://arxiv.org/pdf/2304.06790)] [[code](https://github.com/geekyutao/Inpaint-Anything)]
+</span>
+
 **Inpaint anything: Segment anything meets image inpainting**
 <span style="font-size: smaller;">
 Tao Yu, Runseng Feng, **Ruoyu Feng**, Jinming Liu, Xin Jin, Wenjun Zeng, Zhibo Chen  
