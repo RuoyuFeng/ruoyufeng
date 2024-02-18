@@ -72,8 +72,8 @@ Mar. 2023 - Present      Research Intern, Intelligence Media Group, Microsoft Re
 
 Publications
 ------
-### **Cloth-changing person re-identification from a single image with gait prediction and regularization**
-Xin Jin, Tianyu He, Kecheng Zheng, Zhiheng Yin, Xu Shen, Zhen Huang, **Ruoyu Feng**, Jianqiang Huang, Zhibo Chen, Xian-Sheng Hua
+## **Cloth-changing person re-identification from a single image with gait prediction and regularization**
+Xin Jin, Tianyu He, Kecheng Zheng, Zhiheng Yin, Xu Shen, Zhen Huang, **Ruoyu Feng**, Jianqiang Huang, Zhibgo Chen, Xian-Sheng Hua
 IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2023
 [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf)
 
