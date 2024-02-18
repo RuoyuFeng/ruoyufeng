@@ -147,7 +147,7 @@ European Conference on Computer Vision (**ECCV Workshop**), 2022
 
 **Image coding for machines with omnipotent feature learning**  
 <span style="font-size: smaller;">
-**Ruoyu Feng**, Xin Jin\*, Zongyu Guo, Runsen Feng, Yixin Gao, Tianyu He, Zhizheng Zhang, Simeng Sun, Zhibo Chen.(\* Equal Contribution)  
+**Ruoyu Feng\***, Xin Jin\*, Zongyu Guo, Runsen Feng, Yixin Gao, Tianyu He, Zhizheng Zhang, Simeng Sun, Zhibo Chen.(\* Equal Contribution)  
 European Conference on Computer Vision (**ECCV**), 2022  
 [[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970500.pdf)]
 </span>
