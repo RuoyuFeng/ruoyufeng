@@ -76,13 +76,13 @@ Research
 **ART·V: Auto-Regressive Text-to-Video Generation with Diffusion Models**  
 <span style="font-size: smaller;">
 Wenming Weng, **Ruoyu Feng**, Yanhui Wang, Qi Dai, Chunyu Wang, Dacheng Yin, Zhiyuan Zhao, Kai Qiu, Jianmin Bao, Yuhui Yuan, Chong Luo, Yueyi Zhang, Zhiwei Xiong  
-[[pdf](https://arxiv.org/abs/2311.18834)]
+[[pdf](https://arxiv.org/abs/2311.18834)] [[project](https://warranweng.github.io/art.v/)]
 </span>
 
 **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**  
 <span style="font-size: smaller;">
 Yanhui Wang, Jianmin Bao, Wenming Weng, **Ruoyu Feng**, Dacheng Yin, Tao Yang, Jingxu Zhang, Qi Dai Zhiyuan Zhao, Chunyu Wang, Kai Qiu, Yuhui Yuan, Xiaoyan Sun, Chong Luo, Baining Guo  
-[[pdf](https://arxiv.org/abs/2311.18829)]
+[[pdf](https://arxiv.org/abs/2311.18829)] [[project](https://wangyanhui666.github.io/MicroCinema.github.io/)]
 </span>
 
 **CCEdit: Creative and controllable video editing via diffusion models**  
