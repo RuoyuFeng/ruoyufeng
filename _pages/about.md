@@ -88,7 +88,7 @@ Yanhui Wang, Jianmin Bao, Wenming Weng, **Ruoyu Feng**, Dacheng Yin, Tao Yang, J
 **CCEdit: Creative and controllable video editing via diffusion models**  
 <span style="font-size: smaller;">
 **Ruoyu Feng**, Wenming Weng, Yanhui Wang, Yuhui Yuan, Jianmin Bao, Chong Luo, Zhibo Chen, Baining Guo  
-[[pdf](https://arxiv.org/pdf/2309.16496.pdf)]
+[[pdf](https://arxiv.org/pdf/2309.16496.pdf)] [[project](https://ruoyufeng.github.io/CCEdit.github.io/)]
 </span>
 
 
