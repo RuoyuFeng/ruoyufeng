@@ -7,4 +7,4 @@ This is Ruoyu Feng, a Ph.D. Candidate in MOE-Microsoft Key Laboratory of Multime
 
 I am actively looking for a position in AI research about video generation and AIGC starting in the summer of 2025. Feel free to email me if you are interested in my research.
 
-Quick links: [Homepage](https://ruoyufeng.github.io/ruoyufeng/), [Email: ustcfry@mail.ustc.edu.cn](mailto:ustcfry@mail.ustc.edu.cn), [Google scholar](https://scholar.google.com/citations?user=Gt4QSSEAAAAJ&hl), [Github](https://github.com/RuoyuFeng).
+Quick links: [Homepage](https://ruoyufeng.github.io/ruoyufeng/), [Email: ustcfry@mail.ustc.edu.cn](mailto:ustcfry@mail.ustc.edu.cn), [Google scholar](https://scholar.google.com/citations?user=Gt4QSSEAAAAJ&hl).
