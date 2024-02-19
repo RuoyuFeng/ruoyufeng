@@ -1,7 +1,7 @@
 
-# Academic Pages
+# Ruoyu Feng (冯若愚)
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+![Homepage]([https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg](https://ruoyufeng.github.io/ruoyufeng/))
 
 Academic Pages is a Github Pages template for academic websites.
 
