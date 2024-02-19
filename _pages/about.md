@@ -107,7 +107,7 @@ International Conference on Computer Vision (**ICCV**), 2023
 
 **Image Coding for Machines based on Non-Uniform Importance Allocation**  
 <span style="font-size: smaller;">
-Yunpeng Qi, Ruoyu Feng, Zhizheng Zhang, Zhibo Chen  
+Yunpeng Qi, **Ruoyu Feng**, Zhizheng Zhang, Zhibo Chen  
 2023 IEEE International Conference on Visual Communications and Image Processing (**VCIP**)  
 [[pdf](https://ieeexplore.ieee.org/abstract/document/10402758/)]
 </span>
