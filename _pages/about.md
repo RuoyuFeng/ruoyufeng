@@ -73,30 +73,50 @@ Experience
 
 Research
 ------
-**ART·V: Auto-Regressive Text-to-Video Generation with Diffusion Models**  
+
+**TOP CONFERENCE PAPERS**
+
+**CCEdit: Creative and controllable video editing via diffusion models**  
 <span style="font-size: smaller;">
-Wenming Weng, **Ruoyu Feng**, Yanhui Wang, Qi Dai, Chunyu Wang, Dacheng Yin, Zhiyuan Zhao, Kai Qiu, Jianmin Bao, Yuhui Yuan, Chong Luo, Yueyi Zhang, Zhiwei Xiong  
-[[pdf](https://arxiv.org/abs/2311.18834)] [[project](https://warranweng.github.io/art.v/)]
+**Ruoyu Feng**, Wenming Weng, Yanhui Wang, Yuhui Yuan, Jianmin Bao, Chong Luo, Zhibo Chen, Baining Guo  
+IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2024  
+[[pdf](https://arxiv.org/pdf/2309.16496.pdf)] [[project](https://ruoyufeng.github.io/CCEdit.github.io/)]
 </span>
 
 **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**  
 <span style="font-size: smaller;">
 Yanhui Wang, Jianmin Bao, Wenming Weng, **Ruoyu Feng**, Dacheng Yin, Tao Yang, Jingxu Zhang, Qi Dai Zhiyuan Zhao, Chunyu Wang, Kai Qiu, Yuhui Yuan, Xiaoyan Sun, Chong Luo, Baining Guo  
+IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2024  
 [[pdf](https://arxiv.org/abs/2311.18829)] [[project](https://wangyanhui666.github.io/MicroCinema.github.io/)]
 </span>
-
-**CCEdit: Creative and controllable video editing via diffusion models**  
-<span style="font-size: smaller;">
-**Ruoyu Feng**, Wenming Weng, Yanhui Wang, Yuhui Yuan, Jianmin Bao, Chong Luo, Zhibo Chen, Baining Guo  
-[[pdf](https://arxiv.org/pdf/2309.16496.pdf)] [[project](https://ruoyufeng.github.io/CCEdit.github.io/)]
-</span>
-
 
 **Semantically Structured Image Compression via Irregular Group-Based Decoupling**  
 <span style="font-size: smaller;">
 **Ruoyu Feng\***, Yixin Gao\*, Xin Jin, Runsen Feng, Zhibo Chen.(\* Equal Contribution)  
 International Conference on Computer Vision (**ICCV**), 2023
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.pdf)]
+</span>
+
+**Image coding for machines with omnipotent feature learning**  
+<span style="font-size: smaller;">
+**Ruoyu Feng\***, Xin Jin\*, Zongyu Guo, Runsen Feng, Yixin Gao, Tianyu He, Zhizheng Zhang, Simeng Sun, Zhibo Chen.(\* Equal Contribution)  
+European Conference on Computer Vision (**ECCV**), 2022  
+[[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970500.pdf)]
+</span>
+
+**Cloth-changing person re-identification from a single image with gait prediction and regularization**  
+<span style="font-size: smaller;">
+Xin Jin, Tianyu He, Kecheng Zheng, Zhiheng Yin, Xu Shen, Zhen Huang, **Ruoyu Feng**, Jianqiang Huang, Zhibgo Chen, Xian-Sheng Hua  
+IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2022  
+[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf)]
+</span>
+
+**OTHERS**
+
+**ART·V: Auto-Regressive Text-to-Video Generation with Diffusion Models**  
+<span style="font-size: smaller;">
+Wenming Weng, **Ruoyu Feng**, Yanhui Wang, Qi Dai, Chunyu Wang, Dacheng Yin, Zhiyuan Zhao, Kai Qiu, Jianmin Bao, Yuhui Yuan, Chong Luo, Yueyi Zhang, Zhiwei Xiong  
+[[pdf](https://arxiv.org/abs/2311.18834)] [[project](https://warranweng.github.io/art.v/)]
 </span>
 
 **Prompt-ICM: A Unified Framework towards Image Coding for Machines with Task-driven Prompts**  
@@ -144,20 +164,6 @@ Tao Yu, Runseng Feng, **Ruoyu Feng**, Jinming Liu, Xin Jin, Wenjun Zeng, Zhibo C
 Bingchen Li, Xin Li, Yiting Lu, Sen Liu, **Ruoyu Feng**, Zhibo Chen  
 European Conference on Computer Vision (**ECCV Workshop**), 2022  
 [[pdf](https://arxiv.org/abs/2208.09885)]
-</span>
-
-**Image coding for machines with omnipotent feature learning**  
-<span style="font-size: smaller;">
-**Ruoyu Feng\***, Xin Jin\*, Zongyu Guo, Runsen Feng, Yixin Gao, Tianyu He, Zhizheng Zhang, Simeng Sun, Zhibo Chen.(\* Equal Contribution)  
-European Conference on Computer Vision (**ECCV**), 2022  
-[[pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136970500.pdf)]
-</span>
-
-**Cloth-changing person re-identification from a single image with gait prediction and regularization**  
-<span style="font-size: smaller;">
-Xin Jin, Tianyu He, Kecheng Zheng, Zhiheng Yin, Xu Shen, Zhen Huang, **Ruoyu Feng**, Jianqiang Huang, Zhibgo Chen, Xian-Sheng Hua  
-IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2022  
-[[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf)]
 </span>
 
 
