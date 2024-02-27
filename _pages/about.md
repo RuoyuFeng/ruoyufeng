@@ -74,7 +74,7 @@ Experience
 Research
 ------
 
-**TOP CONFERENCE PAPERS**
+*TOP CONFERENCE PAPERS*
 
 **CCEdit: Creative and controllable video editing via diffusion models**  
 <span style="font-size: smaller;">
@@ -93,7 +93,7 @@ IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2024
 **Semantically Structured Image Compression via Irregular Group-Based Decoupling**  
 <span style="font-size: smaller;">
 **Ruoyu Feng\***, Yixin Gao\*, Xin Jin, Runsen Feng, Zhibo Chen.(\* Equal Contribution)  
-International Conference on Computer Vision (**ICCV**), 2023
+International Conference on Computer Vision (**ICCV**), 2023  
 [[pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Semantically_Structured_Image_Compression_via_Irregular_Group-Based_Decoupling_ICCV_2023_paper.pdf)]
 </span>
 
@@ -111,7 +111,7 @@ IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2022
 [[pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Cloth-Changing_Person_Re-Identification_From_a_Single_Image_With_Gait_Prediction_CVPR_2022_paper.pdf)]
 </span>
 
-**OTHERS**
+*OTHERS*
 
 **ART·V: Auto-Regressive Text-to-Video Generation with Diffusion Models**  
 <span style="font-size: smaller;">
