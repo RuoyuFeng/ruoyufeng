@@ -90,6 +90,13 @@ IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2024
 [[pdf](https://arxiv.org/abs/2311.18829)] [[project](https://wangyanhui666.github.io/MicroCinema.github.io/)]
 </span>
 
+**SeD: Semantic-Aware Discriminator for Image Super-Resolution**  
+<span style="font-size: smaller;">
+Bingchen Li, Xin Li, Hanxin Zhu, Yeying Jin, **Ruoyu Feng**, Zhizheng Zhang, Zhibo Chen  
+IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2024  
+[[pdf](https://arxiv.org/pdf/2402.19387)]
+</span>
+
 **Semantically Structured Image Compression via Irregular Group-Based Decoupling**  
 <span style="font-size: smaller;">
 **Ruoyu Feng\***, Yixin Gao\*, Xin Jin, Runsen Feng, Zhibo Chen.(\* Equal Contribution)  
