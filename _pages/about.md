@@ -90,7 +90,7 @@ IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2024
 **MicroCinema: A Divide-and-Conquer Approach for Text-to-Video Generation**  
 <span style="font-size: smaller;">
 Yanhui Wang, Jianmin Bao, Wenming Weng, **Ruoyu Feng**, Dacheng Yin, Tao Yang, Jingxu Zhang, Qi Dai Zhiyuan Zhao, Chunyu Wang, Kai Qiu, Yuhui Yuan, Xiaoyan Sun, Chong Luo, Baining Guo  
-IEEE/CVF Computer Vision and Pattern Recognition (**CVPR**), 2024  
+IEEE/CVF Computer Vision and Pattern Recognition (**CVPR Highlight**), 2024  
 [[pdf](https://arxiv.org/abs/2311.18829)] [[project](https://wangyanhui666.github.io/MicroCinema.github.io/)]
 </span>
 
