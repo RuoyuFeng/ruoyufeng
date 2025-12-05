@@ -1,5 +1,7 @@
   方法 2：如果你的 RuoyuFeng.github.io 仓库已有内容
 
+  npm run build
+
   cd out
   git init
   git add -A
