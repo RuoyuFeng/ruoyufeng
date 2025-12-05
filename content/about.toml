@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Video Generation",
-  "AIGC",
-  "Image Coding for Machines"
+  "Diffusion Models",
+  "Image/Video Generation",
+  "AIGC"
 ]
 
 [[sections]]
@@ -15,6 +15,12 @@ source = "bio.md"
 title = "About"
 
 [[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"
+
+[[sections]]
 id = "featured_publications"
 type = "publications"
 title = "Selected Publications"
@@ -22,8 +28,8 @@ filter = "selected"
 limit = 5
 
 [[sections]]
-id = "news"
+id = "friends"
 type = "list"
-title = "News"
-source = "news.toml"
+title = "Friends"
+source = "friends_list.toml"
 

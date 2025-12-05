@@ -1,4 +1,8 @@
 [[news]]
+date = "2025-09"
+content = "[Diff-ICMH](https://arxiv.org/abs/2511.22549) accepted by NeurIPS 2025"
+
+[[news]]
 date = "2024-02"
 content = "[CCEdit](https://ruoyufeng.github.io/CCEdit.github.io/) accepted by CVPR 2024"
 
@@ -8,12 +12,8 @@ content = "[MicroCinema](https://wangyanhui666.github.io/MicroCinema.github.io/)
 
 [[news]]
 date = "2023-07"
-content = "Semantically Structured Image Compression accepted by ICCV 2023"
-
-[[news]]
-date = "2023-03"
-content = "Started research internship at Microsoft Research Asia"
+content = "[GIT-SSIC](https://arxiv.org/pdf/2305.02586) accepted by ICCV 2023"
 
 [[news]]
 date = "2022-07"
-content = "Image coding for machines with omnipotent feature learning accepted by ECCV 2022"
+content = "[Omni-ICM](https://arxiv.org/abs/2207.01932) accepted by ECCV 2022"

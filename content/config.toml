@@ -6,9 +6,9 @@ last_updated = "December 5, 2025"
 
 [author]
 name = "Ruoyu Feng"
-title = "Ph.D. Candidate"
-institution = "University of Science and Technology of China (USTC)"
-avatar = "/Ruoyu2.jpg"
+title = "Researcher"
+institution = "ByteDance Douyin Content Group"
+avatar = "/ruoyu3.png"
 
 [social]
 # Contact information (leave blank or delete to hide)
@@ -43,18 +43,6 @@ title = "Publications"
 type = "page"
 target = "publications"
 href = "/publications"
-
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
-
-[[navigation]]
-title = "Awards"
-type = "page"
-target = "awards"
-href = "/awards"
 
 [[navigation]]
 title = "Services"

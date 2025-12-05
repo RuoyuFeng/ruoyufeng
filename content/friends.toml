@@ -1,0 +1,20 @@
+type = "card"
+title = "Friends"
+
+[[items]]
+title = "Tiankai Hang"
+subtitle = ""
+date = ""
+content = "🔗 [https://tiankaihang.github.io/](https://tiankaihang.github.io/)"
+
+[[items]]
+title = "Jinming Liu"
+subtitle = ""
+date = ""
+content = "🔗 [https://jmliu206.github.io/jmliu.github.io/](https://jmliu206.github.io/jmliu.github.io/)"
+
+[[items]]
+title = "Zongyu Guo"
+subtitle = ""
+date = ""
+content = "🔗 [https://zongyuguo.github.io/](https://zongyuguo.github.io/)"

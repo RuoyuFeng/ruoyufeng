@@ -1,6 +1,6 @@
 ## Education
 
-**University of Science and Technology of China (USTC)**, Ph.D. in Computer Science, *2020 - 2025 (Expected)*
+**University of Science and Technology of China (USTC)**, Ph.D. in Computer Science, *2020 - 2025*
 - Research focus: Video Generation, AIGC, and Image Coding for Machines
 - Supervisor: Prof. Zhibo Chen
 - MOE-Microsoft Key Laboratory of Multimedia Computing and Communication
@@ -10,24 +10,29 @@
 
 ## Experience
 
+**Researcher**
+ByteDance Douyin Content Group
+*Jun. 2025 - Present*
+- Research on diffusion models and image/video generation
+- Focus on AIGC for content creation
+
 **Research Intern**
 Intelligence Media Group, Microsoft Research Asia
-*Mar. 2023 - Present*
-- Working on video generation and AIGC research
+*Mar. 2023 - Jun. 2025*
+- Worked on video generation and AIGC research
 - Supervisor: Dr. Chong Luo
 
-**Ph.D. Candidate**
+**Ph.D. Student**
 University of Science and Technology of China
-*Mar. 2020 - Present*
+*Mar. 2020 - Jun. 2025*
 - Research in computer vision and multimedia
 - Focus on video generation, AIGC, and image coding
 
 ## Research Interests
 
-- Video Generation
-- AIGC (AI Generated Content)
-- Image Coding for Machines
 - Diffusion Models
+- Image/Video Generation
+- AIGC (AI Generated Content)
 - Computer Vision
 
 ## Awards & Honors

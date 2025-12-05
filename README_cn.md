@@ -1,3 +1,24 @@
+  方法 2：如果你的 RuoyuFeng.github.io 仓库已有内容
+
+  cd out
+  git init
+  git add -A
+  git commit -m "Update personal website"
+  git branch -M main
+  git remote add origin https://github.com/RuoyuFeng/RuoyuFeng.github.io.git
+  git pull origin main --allow-unrelated-histories
+  git push -u origin main -f
+
+  部署完成后：
+
+  1. 访问 https://github.com/RuoyuFeng/RuoyuFeng.github.io
+  2. 进入 Settings → Pages
+  3. 确认 Source 设置为 "Deploy from a branch"
+  4. Branch 选择 "main"，文件夹选择 "/ (root)"
+  5. 点击 Save
+
+  几分钟后，你的网站就会在 https://RuoyuFeng.github.io 上线了！
+
 <div align="center">
   <img src="./logo.png" alt="PRISM Logo" height="100"/>
 </div>

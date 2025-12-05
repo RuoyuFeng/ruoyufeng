@@ -1,18 +1,21 @@
-This is Ruoyu Feng (冯若愚), a Ph.D. Candidate in MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China (USTC), supervised by [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/). I am expected to receive my PhD degree in June 2025.
+This is Ruoyu Feng (冯若愚), a Researcher at ByteDance Douyin Content Group. I received my Ph.D. degree from MOE-Microsoft Key Laboratory of Multimedia Computing and Communication, University of Science and Technology of China (USTC) in June 2025, supervised by [Zhibo Chen](http://staff.ustc.edu.cn/~chenzhibo/).
 
 Before that, I spent my undergraduate years in the Automation Department of Southeast University, from 2016 to 2020, and received the National Scholarship in 2019.
 
-From March 2023 till now, I am a research intern at Intelligence Media Group of MSRA under the supervision of [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/). My research interests mainly focus on **video generation, AIGC, and image coding for machines**.
+I was a research intern at Intelligence Media Group of MSRA from March 2023 to June 2025 under the supervision of [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/). 
 
-**I am actively looking for a position in AI research about video generation and AIGC starting in the summer of 2025.** Feel free to email me if you are interested in my research.
+My research interests mainly focus on **diffusion models, image/video generation, and AIGC**.
 
 ## Experience
 
-**Mar. 2023 - Present**
+**Jun. 2025 - Present**
+Researcher, ByteDance Douyin Content Group
+
+**Mar. 2023 - Jun. 2025**
 Research Intern, Intelligence Media Group, Microsoft Research Asia
 
-**Mar. 2020 - Present**
-Ph.D. Candidate, University of Science and Technology of China
+**Mar. 2020 - Jun. 2025**
+Ph.D. Student, University of Science and Technology of China
 
 **Sep. 2016 - Jun. 2020**
-Southeast University, Bachelor of Engineering
+Undergraduate Student, Southeast University, Bachelor of Engineering
