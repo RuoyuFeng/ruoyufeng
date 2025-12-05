@@ -14,12 +14,6 @@ avatar = "/ruoyu3.png"
 # Contact information (leave blank or delete to hide)
 
 email = "ustcfry@mail.ustc.edu.cn"
-location = "Beijing, China"
-location_url = "https://maps.google.com/?q=Beijing"
-location_details = [
-  "MOE-Microsoft Key Laboratory of Multimedia Computing and Communication,",
-  "University of Science and Technology of China"
-]
 google_scholar = "https://scholar.google.com/citations?user=Gt4QSSEAAAAJ&hl"
 orcid = ""
 github = "https://github.com/RuoyuFeng"
