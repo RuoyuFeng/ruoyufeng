@@ -1,0 +1,14 @@
+type = "card"
+title = "Academic Services"
+
+[[items]]
+title = "Journal Reviewer"
+subtitle = ""
+date = ""
+content = "Invited Reviewer for IEEE TCSVT, TNNLS, TIP, etc."
+
+[[items]]
+title = "Conference Reviewer"
+subtitle = ""
+date = ""
+content = "Invited Reviewer for ECCV, ICCV, CVPR, ACM MM, etc."

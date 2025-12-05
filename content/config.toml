@@ -1,0 +1,69 @@
+[site]
+title = "Ruoyu Feng"
+description = "Welcome to Ruoyu Feng's personal website where I share my basic information, publications, and thoughts."
+favicon = "/favicon.svg"
+last_updated = "December 5, 2025"
+
+[author]
+name = "Ruoyu Feng"
+title = "Ph.D. Candidate"
+institution = "University of Science and Technology of China (USTC)"
+avatar = "/Ruoyu2.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+
+email = "ustcfry@mail.ustc.edu.cn"
+location = "Beijing, China"
+location_url = "https://maps.google.com/?q=Beijing"
+location_details = [
+  "MOE-Microsoft Key Laboratory of Multimedia Computing and Communication,",
+  "University of Science and Technology of China"
+]
+google_scholar = "https://scholar.google.com/citations?user=Gt4QSSEAAAAJ&hl"
+orcid = ""
+github = "https://github.com/RuoyuFeng"
+linkedin = ""
+
+[features]
+# Show a like button on the about page
+enable_likes = true
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"
