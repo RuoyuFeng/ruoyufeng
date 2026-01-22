@@ -1,3 +1,5 @@
+  npm run dev <!-- 调试用  -->
+  
   方法 2：如果你的 RuoyuFeng.github.io 仓库已有内容
 
   npm run build
