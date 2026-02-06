@@ -18,7 +18,7 @@ ByteDance Douyin Content Group
 
 **Research Intern**
 Intelligence Media Group, Microsoft Research Asia
-*Mar. 2023 - Jun. 2025*
+*Mar. 2023 - Sep. 2024*
 - Worked on video generation and AIGC research
 - Supervisor: Dr. Chong Luo
 
