@@ -60,6 +60,40 @@ export default function SelectedPublications({ publications, title = 'Selected P
                                 {pub.description}
                             </p>
                         )}
+                        {(pub.url || pub.website || pub.code) && (
+                            <div className="mt-3 flex flex-wrap gap-2">
+                                {pub.url && (
+                                    <a
+                                        href={pub.url}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium bg-white dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300 border border-neutral-200 dark:border-neutral-700 hover:border-accent hover:text-accent transition-colors"
+                                    >
+                                        Paper
+                                    </a>
+                                )}
+                                {pub.website && (
+                                    <a
+                                        href={pub.website}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium bg-white dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300 border border-neutral-200 dark:border-neutral-700 hover:border-accent hover:text-accent transition-colors"
+                                    >
+                                        Project
+                                    </a>
+                                )}
+                                {pub.code && (
+                                    <a
+                                        href={pub.code}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                        className="inline-flex items-center px-2.5 py-1 rounded-md text-xs font-medium bg-white dark:bg-neutral-900 text-neutral-700 dark:text-neutral-300 border border-neutral-200 dark:border-neutral-700 hover:border-accent hover:text-accent transition-colors"
+                                    >
+                                        Code
+                                    </a>
+                                )}
+                            </div>
+                        )}
                     </motion.div>
                 ))}
             </div>
