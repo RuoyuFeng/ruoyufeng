@@ -2,7 +2,7 @@ This is Ruoyu Feng (冯若愚), a Researcher at ByteDance Douyin Content Group. 
 
 Before that, I spent my undergraduate years in the Automation Department of Southeast University, from 2016 to 2020, and received the National Scholarship in 2019.
 
-I was a research intern at Intelligence Media Group of MSRA from March 2023 to September 2024 under the supervision of [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/). 
+I was a research intern at Intelligent Multimedia Group of MSRA from March 2023 to September 2024 under the supervision of [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/). 
 
 My research interests mainly focus on **diffusion models, image/video generation, and AIGC**.
 
@@ -12,9 +12,9 @@ My research interests mainly focus on **diffusion models, image/video generation
 Researcher, ByteDance Douyin Content Group
 
 **Mar. 2023 - Sep. 2024**
-Research Intern, Intelligence Media Group, Microsoft Research Asia
+Research Intern, Intelligent Multimedia Group, Microsoft Research Asia
 
-**Mar. 2020 - Jun. 2025**
+**Sep. 2020 - Jun. 2025**
 Ph.D. Student, University of Science and Technology of China
 
 **Sep. 2016 - Jun. 2020**
