@@ -15,6 +15,18 @@ source = "bio.md"
 title = "About"
 
 [[sections]]
+id = "work_experience"
+type = "markdown"
+source = "work_experience.md"
+title = "Work Experience"
+
+[[sections]]
+id = "education"
+type = "markdown"
+source = "education.md"
+title = "Education"
+
+[[sections]]
 id = "news"
 type = "list"
 title = "News"
@@ -32,4 +44,3 @@ id = "friends"
 type = "list"
 title = "Friends"
 source = "friends_list.toml"
-

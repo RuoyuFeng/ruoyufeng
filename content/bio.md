@@ -5,17 +5,3 @@ Before that, I spent my undergraduate years in the Automation Department of Sout
 I was a research intern at Intelligent Multimedia Group of MSRA from March 2023 to September 2024 under the supervision of [Chong Luo](https://www.microsoft.com/en-us/research/people/cluo/). 
 
 My research interests mainly focus on **diffusion models, image/video generation, and AIGC**.
-
-## Experience
-
-**Jun. 2025 - Present**
-Researcher, ByteDance Douyin Content Group
-
-**Mar. 2023 - Sep. 2024**
-Research Intern, Intelligent Multimedia Group, Microsoft Research Asia
-
-**Sep. 2020 - Jun. 2025**
-Ph.D. Student, University of Science and Technology of China
-
-**Sep. 2016 - Jun. 2020**
-Undergraduate Student, Southeast University, Bachelor of Engineering

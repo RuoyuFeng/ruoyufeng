@@ -154,6 +154,7 @@ export default function Home() {
                         key={section.id}
                         content={section.content || ''}
                         title={section.title}
+                        compact={section.id === 'work_experience' || section.id === 'education'}
                       />
                     );
                   case 'publications':
@@ -204,4 +205,3 @@ export default function Home() {
     </div>
   );
 }
-
