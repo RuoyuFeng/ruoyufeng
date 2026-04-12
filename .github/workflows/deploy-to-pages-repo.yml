@@ -3,6 +3,7 @@ name: Deploy Personal Site
 on:
   push:
     branches:
+      - dev-PRISM
       - master
   workflow_dispatch:
 
