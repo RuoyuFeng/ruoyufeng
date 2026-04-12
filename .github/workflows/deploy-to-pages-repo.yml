@@ -24,16 +24,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install Lightning CSS Linux binary
-        run: |
-          LIGHTNINGCSS_VERSION=$(node -p "require('./node_modules/lightningcss/package.json').version")
-          npm install --no-save "lightningcss-linux-x64-gnu@${LIGHTNINGCSS_VERSION}"
-
-      - name: Install Tailwind Oxide Linux binary
-        run: |
-          TAILWIND_OXIDE_VERSION=$(node -p "require('./node_modules/@tailwindcss/oxide/package.json').version")
-          npm install --no-save "@tailwindcss/oxide-linux-x64-gnu@${TAILWIND_OXIDE_VERSION}"
-
       - name: Build static site
         env:
           NEXT_TELEMETRY_DISABLED: 1
