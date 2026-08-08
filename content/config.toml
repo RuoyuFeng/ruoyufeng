@@ -2,12 +2,12 @@
 title = "Ruoyu Feng"
 description = "Welcome to Ruoyu Feng's personal website where I share my basic information, publications, and thoughts."
 favicon = "/favicon.svg"
-last_updated = "April 1, 2026"
+last_updated = "August 8, 2026"
 
 [author]
 name = "Ruoyu Feng"
-title = "Researcher"
-institution = "ByteDance Douyin Content Group"
+title = "Algorithm Engineer"
+institution = "ByteDance Seedance Team"
 avatar = "/ruoyu3.png"
 
 [social]

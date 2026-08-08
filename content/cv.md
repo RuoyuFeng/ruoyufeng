@@ -10,9 +10,15 @@
 
 ## Experience
 
+**Algorithm Engineer**
+ByteDance Seedance Team
+*Jun. 2026 - Present*
+- Research on diffusion models and image/video generation
+- Focus on AIGC for content creation
+
 **Researcher**
 ByteDance Douyin Content Group
-*Jun. 2025 - Present*
+*Jun. 2025 - Jun. 2026*
 - Research on diffusion models and image/video generation
 - Focus on AIGC for content creation
 
